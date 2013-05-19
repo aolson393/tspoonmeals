@@ -1,3 +1,10 @@
+# TSpoon Meals
+
+This is the application for 
+[*T'Spoon Meals*](http://tspoonmeals.com)
+
+Created by [Allison Olson](http://dreamscapesld.com)
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
